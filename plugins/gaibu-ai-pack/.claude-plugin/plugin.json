@@ -1,0 +1,9 @@
+{
+  "name": "gaibu-ai-pack",
+  "description": "外部AI担当（AI運用代行）の共通頭脳。秘書エージェント・ブランドボイス点検スキル・朝タスクコマンド・自動発火フックを同梱。",
+  "$comment_version": "version は意図的に省略。省略時は毎コミットが新版扱いになり、push するだけで auto-update が流れる。明示的にリリースを区切りたくなったら version を付けて運用する。",
+  "author": {
+    "name": "菊池研 / コンプラット",
+    "email": "kenkik@gmail.com"
+  }
+}

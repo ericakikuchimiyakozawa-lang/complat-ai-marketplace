@@ -1,0 +1,18 @@
+{
+  "name": "complat-ai-marketplace",
+  "owner": {
+    "name": "菊池研 / コンプラット",
+    "email": "kenkik@gmail.com"
+  },
+  "metadata": {
+    "description": "外部AI担当（AI運用代行）標準パッケージ。共通エージェント・スキル・自動発火フックを一括配布する。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gaibu-ai-pack",
+      "source": "./plugins/gaibu-ai-pack",
+      "description": "外部AI担当の頭脳一式。秘書エージェント・ブランドボイス点検スキル・朝タスクコマンド・自動発火フックを含む。"
+    }
+  ]
+}
