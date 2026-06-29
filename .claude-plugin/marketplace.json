@@ -1,8 +1,7 @@
 {
   "name": "complat-ai-marketplace",
   "owner": {
-    "name": "菊池研 / コンプラット",
-    "email": "kenkik@gmail.com"
+    "name": "complat"
   },
   "metadata": {
     "description": "外部AI担当（AI運用代行）標準パッケージ。共通エージェント・スキル・自動発火フックを一括配布する。",
